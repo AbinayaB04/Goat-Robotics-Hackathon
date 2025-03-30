@@ -1,0 +1,120 @@
+INFO:root:Spawned Robot 0 at Vertex 0
+INFO:root:Spawned Robot 1 at Vertex 6
+INFO:root:Spawned Robot 2 at Vertex 2
+INFO:root:Spawned Robot 3 at Vertex 0
+INFO:root:Spawned Robot 4 at Vertex 0
+INFO:root:Spawned Robot 0 at Vertex 0
+INFO:root:Spawned Robot 1 at Vertex 0
+INFO:root:Spawned Robot 2 at Vertex 0
+INFO:root:Spawned Robot 3 at Vertex 0
+INFO:root:Spawned Robot 4 at Vertex 0
+INFO:root:Spawned Robot 5 at Vertex 0
+INFO:root:Spawned Robot 6 at Vertex 0
+INFO:root:Spawned Robot 7 at Vertex 0
+INFO:root:Spawned Robot 8 at Vertex 5
+INFO:root:Spawned Robot 9 at Vertex 5
+INFO:root:Spawned Robot 10 at Vertex 6
+INFO:root:Spawned Robot 11 at Vertex 5
+INFO:root:Spawned Robot 12 at Vertex 1
+INFO:root:Spawned Robot 13 at Vertex 1
+INFO:root:Spawned Robot 14 at Vertex 1
+INFO:root:Spawned Robot 15 at Vertex 1
+INFO:root:Spawned Robot 16 at Vertex 1
+INFO:root:Spawned Robot 17 at Vertex 1
+INFO:root:Spawned Robot 18 at Vertex 1
+INFO:root:Spawned Robot 19 at Vertex 1
+INFO:root:Spawned Robot 20 at Vertex 1
+INFO:root:Spawned Robot 21 at Vertex 1
+INFO:root:Spawned Robot 22 at Vertex 1
+INFO:root:Spawned Robot 23 at Vertex 1
+INFO:root:Spawned Robot 24 at Vertex 1
+INFO:root:Spawned Robot 0 at Vertex 0
+INFO:root:Spawned Robot 0 at Vertex 2
+INFO:root:Spawned Robot 1 at Vertex 2
+INFO:root:Spawned Robot 2 at Vertex 2
+INFO:root:Spawned Robot 3 at Vertex 2
+INFO:root:Spawned Robot 4 at Vertex 5
+INFO:root:Spawned Robot 5 at Vertex 4
+INFO:root:Spawned Robot 6 at Vertex 3
+INFO:root:Spawned Robot 7 at Vertex 0
+INFO:root:Spawned Robot 8 at Vertex 0
+INFO:root:Spawned Robot 9 at Vertex 0
+INFO:root:Spawned Robot 10 at Vertex 1
+INFO:root:Spawned Robot 11 at Vertex 1
+INFO:root:Spawned Robot 12 at Vertex 1
+INFO:root:Spawned Robot 13 at Vertex 1
+INFO:root:Spawned Robot 14 at Vertex 1
+INFO:root:Spawned Robot 15 at Vertex 1
+INFO:root:Spawned Robot 16 at Vertex 1
+INFO:root:Spawned Robot 17 at Vertex 1
+INFO:root:Spawned Robot 18 at Vertex 1
+INFO:root:Spawned Robot 19 at Vertex 1
+INFO:root:Spawned Robot 20 at Vertex 1
+INFO:root:Spawned Robot 21 at Vertex 1
+INFO:root:Spawned Robot 22 at Vertex 1
+INFO:root:Spawned Robot 23 at Vertex 1
+INFO:root:Spawned Robot 24 at Vertex 1
+INFO:root:Spawned Robot 25 at Vertex 1
+INFO:root:Spawned Robot 26 at Vertex 1
+INFO:root:Spawned Robot 27 at Vertex 1
+INFO:root:Spawned Robot 28 at Vertex 1
+INFO:root:Spawned Robot 29 at Vertex 1
+INFO:root:Spawned Robot 30 at Vertex 1
+INFO:root:Spawned Robot 31 at Vertex 1
+INFO:root:Spawned Robot 32 at Vertex 1
+INFO:root:Spawned Robot 33 at Vertex 1
+INFO:root:Spawned Robot 34 at Vertex 1
+INFO:root:Spawned Robot 35 at Vertex 1
+INFO:root:Spawned Robot 36 at Vertex 1
+INFO:root:Spawned Robot 37 at Vertex 1
+INFO:root:Spawned Robot 38 at Vertex 1
+INFO:root:Spawned Robot 39 at Vertex 1
+INFO:root:Spawned Robot 40 at Vertex 1
+INFO:root:Spawned Robot 41 at Vertex 1
+INFO:root:Spawned Robot 42 at Vertex 1
+INFO:root:Spawned Robot 43 at Vertex 1
+INFO:root:Spawned Robot 44 at Vertex 1
+INFO:root:Spawned Robot 45 at Vertex 1
+2025-03-30 19:22:55,861 - Spawned Robot 0 at Vertex 1
+2025-03-30 19:23:01,041 - Spawned Robot 1 at Vertex 2
+2025-03-30 19:23:03,010 - Spawned Robot 2 at Vertex 2
+2025-03-30 19:23:03,996 - Spawned Robot 3 at Vertex 2
+2025-03-30 19:23:04,495 - Spawned Robot 4 at Vertex 2
+2025-03-30 19:23:04,730 - Spawned Robot 5 at Vertex 2
+2025-03-30 19:23:04,946 - Spawned Robot 6 at Vertex 2
+2025-03-30 19:23:05,177 - Spawned Robot 7 at Vertex 2
+2025-03-30 19:28:38,946 - Spawned Robot 0 at Vertex 1
+2025-03-30 19:28:52,368 - Spawned Robot 1 at Vertex 1
+2025-03-30 19:28:59,593 - Spawned Robot 2 at Vertex 2
+2025-03-30 19:31:13,877 - Spawned Robot 3 at Vertex 2
+2025-03-30 19:31:18,507 - Spawned Robot 4 at Vertex 6
+2025-03-30 19:31:23,111 - Spawned Robot 5 at Vertex 3
+2025-03-30 19:31:27,354 - Spawned Robot 6 at Vertex 4
+2025-03-30 19:31:32,419 - Spawned Robot 7 at Vertex 5
+2025-03-30 19:35:17,630 - Spawned Robot 0 at Vertex 2
+2025-03-30 19:35:19,383 - Spawned Robot 1 at Vertex 2
+2025-03-30 19:35:26,628 - Spawned Robot 2 at Vertex 4
+2025-03-30 19:40:17,318 - Spawned Robot 0 at Vertex 0
+2025-03-30 19:40:24,592 - Spawned Robot 1 at Vertex 1
+2025-03-30 19:40:27,979 - Spawned Robot 2 at Vertex 2
+2025-03-30 19:40:31,292 - Spawned Robot 3 at Vertex 6
+2025-03-30 19:40:35,267 - Spawned Robot 4 at Vertex 5
+2025-03-30 19:40:39,304 - Spawned Robot 5 at Vertex 3
+2025-03-30 19:40:42,698 - Spawned Robot 6 at Vertex 4
+2025-03-30 19:44:05,149 - Spawned Robot 0 at Vertex 0
+2025-03-30 19:44:22,032 - Spawned Robot 1 at Vertex 4
+2025-03-30 19:48:03,348 - Spawned Robot 0 at Vertex 6
+2025-03-30 19:49:48,642 - Spawned Robot 0 at Vertex 0
+2025-03-30 19:49:54,055 - Spawned Robot 1 at Vertex 1
+2025-03-30 19:49:58,205 - Spawned Robot 2 at Vertex 2
+2025-03-30 19:50:24,822 - Spawned Robot 3 at Vertex 3
+2025-03-30 19:51:21,515 - Spawned Robot 4 at Vertex 6
+2025-03-30 19:51:28,629 - Spawned Robot 5 at Vertex 5
+2025-03-30 19:51:32,139 - Spawned Robot 6 at Vertex 4
+2025-03-30 22:14:55 - Assigned task to Robot 0: Path [[12.176317, -13.623901], [12.272814, -9.345879], [9.49049, -9.329796]]
+2025-03-30 22:22:55 - Assigned task to Robot 0: Path [[12.272814, -9.345879], [9.49049, -9.329796], [9.570904, -11.565304]]
+2025-03-30 22:29:55 - Assigned task to Robot 0: Path [1, 2, 6, 5]
+2025-03-30 22:31:06 - Assigned task to Robot 0: Path [2, 6, 5]
+2025-03-30 22:35:11 - Assigned task to Robot 0: Path [2, 6, 5]
+2025-03-30 22:39:41 - Assigned task to Robot 0: Path [2, 6, 5]
+2025-03-30 22:45:46 - Assigned task to Robot 0: Path [2, 6, 5]
