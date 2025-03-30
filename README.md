@@ -43,5 +43,5 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-
-
+## Demo video link
+https://www.loom.com/share/2ee3a9dcd4d747f59e607c4e1d99be63?sid=0153df58-8ae2-48e0-aaa4-dfb91b26b543
